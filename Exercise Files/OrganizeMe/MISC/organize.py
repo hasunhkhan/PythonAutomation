@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 
 SUBDIRECTORIES = {
+    #inserting a random comment to test commit
     "DOCUMENTS": ['.pdf','.rtf','.txt'],
     "AUDIO": ['.m4a', '.m4b', '.mp3'],
     "VIDEOS": ['.mov', '.avi', '.mp4'],
